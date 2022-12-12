@@ -5,8 +5,8 @@ I gonna tell a few things about me, take a good coffe and check this out. ☕
 ## About me
 
 - 🎓 I did a bachelor's degree in computer engineering from [USJT](https://www.usjt.br/).
-- 🔭 I'm interested in game development and front-end development.
-- 💻 I’m currently learning HTML, CSS and JavaScript.
+- 🔭 I'm interested in game development and game design.
+- 💻 I’m currently learning Unity and C#.
 - 🗣 I speak Portuguese and my English level is intermediate.
 - 📌 I'm from São Paulo, Brazil.
 
