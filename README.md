@@ -25,7 +25,10 @@ I gonna tell a few things about me, take a good coffe and check this out. ☕
 </div>
 
  <br>
-
+ <div>
+     I put all my game projects in my itch.io, so click <a href="https://estevves.itch.io/">HERE</a> and check out my portfolio.      
+ </div>
+  
   ### If you want to contact me, check my social media.
 
 <div>  
