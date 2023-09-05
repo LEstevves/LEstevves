@@ -9,6 +9,7 @@ I gonna tell a few things about me, take a good coffe and check this out. ☕
 - 💻 I’m currently learning Unity and C#.
 - 🗣 I speak Portuguese and my English level is intermediate.
 - 📌 I'm from São Paulo, Brazil.
+- 📂 All my game projects are on my itch.io, check out my [PORTFOLIO](https://estevves.itch.io/).
 
 <div>
   <a href="https://github.com/leoestevves">
@@ -25,14 +26,11 @@ I gonna tell a few things about me, take a good coffe and check this out. ☕
 </div>
 
  <br>
- <div>
-     I put all my game projects in my itch.io, so click <a href="https://estevves.itch.io/">HERE</a> and check out my portfolio.      
- </div>
   
   ### If you want to contact me, check my social media.
 
 <div>  
-  <a href="leogoncalves60@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!--<a href="leogoncalves60@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-->
   <a href="https://www.linkedin.com/in/leonardo-esteves-471a06237" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
