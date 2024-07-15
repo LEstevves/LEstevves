@@ -5,7 +5,7 @@ I gonna tell a few things about me, take a good coffe and check this out. ☕
 ## About me
 
 - 🎓 I did a bachelor's degree in computer engineering from [USJT](https://www.usjt.br/).
-- 🔭 I'm interested in game development and game design.
+- 🔭 I'm interested in .NET development, game development and Fullstack.
 - 💻 I’m currently learning .NET and C#.
 - 🗣 I speak Portuguese and my English level is intermediate.
 - 📌 I'm from São Paulo, Brazil.
